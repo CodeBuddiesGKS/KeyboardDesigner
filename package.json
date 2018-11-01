@@ -1,0 +1,23 @@
+{
+  "name": "keyboard-designer",
+  "version": "1.0.0",
+  "description": "A javascript app that allows you to map a custom layout for a keyboard",
+  "main": "main.js",
+  "scripts": {
+    "start": "serve ./app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeBuddiesGKS/KeyboardDesigner.git"
+  },
+  "author": "Gavin Bonneville",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeBuddiesGKS/KeyboardDesigner/issues"
+  },
+  "homepage": "https://github.com/CodeBuddiesGKS/KeyboardDesigner#readme",
+  "dependencies": {
+    "serve": "^10.0.2"
+  }
+}
